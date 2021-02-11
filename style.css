@@ -1,0 +1,38 @@
+h1 { 
+    color: aquamarine;
+    font-size: 20px;
+}
+.papas {
+    color: aquamarine;
+}
+.carlitos { 
+    color: blue;
+}
+p:first-child{  
+    color: red;
+
+}
+.caja {
+    color: seagreen;
+}
+.porFin {
+    color: purple;
+}
+.modelodecaja {
+    background-color: blueviolet;
+    width: 90px;
+    height: 50px;
+    padding: 40px;
+    border: 2px solid #50b6bb
+}
+body{
+    margin: 0px;
+}
+header{
+    background-color: #21c08b;
+    width: 100%;
+    height: 80px;
+    
+}
+header img{ width: 200px;
+}
